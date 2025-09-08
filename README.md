@@ -4,7 +4,8 @@
 ![GitHub all releases](https://img.shields.io/github/downloads/rgglez/gettext-po2json/total)
 ![GitHub issues](https://img.shields.io/github/issues/rgglez/gettext-po2json)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/rgglez/gettext-po2json)
-
+![GitHub stars](https://img.shields.io/github/stars/rgglez/gettext-po2json?style=social)
+![GitHub forks](https://img.shields.io/github/forks/rgglez/gettext-po2json?style=social)
 
 This Perl script converts a [PO](https://www.gnu.org/software/gettext/manual/html_node/PO-Files.html) file into a JSON JED-like file as produced by [gettext-parser](https://github.com/smhg/gettext-parser), suitable for [svelte-i18n-gettext](https://www.github.com/rgglez/svelte-i18n-gettext).
 
