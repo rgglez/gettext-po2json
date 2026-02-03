@@ -32,6 +32,6 @@ cpan install JSON::PP Locale::PO Getopt::Long File::Temp
 
 ## License
 
-Copyright 2025 Rodolfo González González.
+Copyright 2026 Rodolfo González González.
 
 Licensed under [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) license. Read the [LICENSE](LICENSE) file.
